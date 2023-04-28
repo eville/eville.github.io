@@ -7,14 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2023 ISit-17 Vilija Miniotiene</copyright>
-    <lastBuildDate>Thu, 27 Apr 2023 22:39:08 +0300</lastBuildDate><atom:link href="https://vilija.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Apr 2023 00:31:34 +0300</lastBuildDate><atom:link href="https://vilija.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
+      <title>How to start?</title>
+      <link>https://vilija.github.io/posts/my-second-post/</link>
+      <pubDate>Fri, 28 Apr 2023 00:31:34 +0300</pubDate>
+      
+      <guid>https://vilija.github.io/posts/my-second-post/</guid>
+      <description>If you wish your blog to look like this: Use command line to create and start your brand new site with paperesque theme: cd quickstart git init git submodule add https://github.com/capnfabs/paperesque.git echo &amp;#34;theme = &amp;#39;paperesque&amp;#39;&amp;#34; &amp;gt;&amp;gt; config.toml hugo server </description>
+    </item>
+    
+    <item>
+      <title>What people think of Hugo?</title>
       <link>https://vilija.github.io/posts/my-first-post/</link>
       <pubDate>Thu, 27 Apr 2023 22:39:08 +0300</pubDate>
       
       <guid>https://vilija.github.io/posts/my-first-post/</guid>
-      <description></description>
+      <description>I asked ChatGTP what people think of Hugo and here is the conclusion it has written: &amp;lsquo;Overall, Hugo has received positive feedback from developers and users in the web development community. Hugo is a popular choice for those looking for a fast, efficient, and customizable static site generator. However, like any tool, it may not be the best fit for every project or developer.&amp;rsquo;.</description>
     </item>
     
   </channel>
